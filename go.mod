@@ -1,1 +1,1 @@
-module github.com/gustavocd/calculator
+module github.com/gustavocd/calculator/v2
